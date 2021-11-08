@@ -8,4 +8,5 @@ Els arxius que inclou són els següents:
 - memòria.pdf (document amb les respostes de la pràctica)
 - scraper.py (l'script que genera el conjunt de dades)
 - data_trustpilot.csv (el conjunt de dades generat)
+
 DOI de Zenodo del dataset generat: https://doi.org/10.5281/zenodo.5647693 

@@ -2,7 +2,7 @@
 
 Aquest projecte s'ha realitzat en el context de l'assignatura Tipologia i Cicle de Vida de les Dades del Màster en Ciència de Dades de la Universitat Oberta de Catalunya per l'alumna Aida Berenguer durant el primer semestre del curs 2021/2022.
 
-Els arxius que inclou són els següents:
+Els arxius que s'inclouen són els següents:
 
 - README.md
 - memòria.pdf (document amb les respostes de la pràctica)
